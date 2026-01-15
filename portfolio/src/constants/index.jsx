@@ -27,7 +27,7 @@ export const PROJECTS = [
   {
     title: "SnapLink",
     subtitle: "MERN Stack URL Shortener",
-    link: "https://snaplink-demo.vercel.app", // <--- Comma here is crucial
+    link: "https://snaplink-usn.vercel.app/", // <--- Comma here is crucial
     tech: ["React", "Node.js", "MongoDB", "Express.js", "Render", "Vercel"],
     points: [
       "Architected a Base62 encoding system capable of generating over 56 billion unique aliases.",
@@ -38,7 +38,7 @@ export const PROJECTS = [
   {
     title: "EnhancifAI",
     subtitle: "AI-powered Image Enhancer",
-    link: "https://enhancifai-demo.vercel.app", // <--- Comma here is crucial
+    link: "https://enhancif-ai.vercel.app/", // <--- Comma here is crucial
     tech: ["React.js", "PicWish API", "Node.js"],
     points: [
       "Routed 100% of API traffic through a secure Node.js proxy to prevent credential exposure.",
