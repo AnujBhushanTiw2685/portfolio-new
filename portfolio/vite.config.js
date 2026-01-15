@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(), // <--- Add this
   ],
+  base: "/portfolio-new/"
 })
